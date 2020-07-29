@@ -6,11 +6,11 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Software Engineer
+designation: Ops Technician
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Public Service Commission of Canada
+  url: "https://www.canada.ca/en/public-service-commission.html"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -29,21 +29,11 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/example"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "#"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
