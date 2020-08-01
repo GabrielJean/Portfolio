@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: "Toha"
+title: "Gabriel Jean"
 theme: "toha"
 
 # Allow raw html in markdown file
@@ -68,6 +68,6 @@ params:
       phone: "+0123456789"
     # a summary of what you do
     summary:
-    - I am a Developer
-    - I work with Go
-    - I love to work with some fun projects
+    - I'm a Devops Guy
+    - I work with Docker and other cloudy stuff
+    - I love learning new things 

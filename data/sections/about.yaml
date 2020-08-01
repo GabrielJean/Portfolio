@@ -27,12 +27,12 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/GabrielJean"
 
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/gabriel-jean-670702183/"
 
 
 # your soft skills
@@ -40,22 +40,22 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 75
+  percentage: 100
   color: blue
-- name: Team Work
-  percentage: 85
+- name: Team Player
+  percentage: 100
   color: yellow
 - name: Communication
-  percentage: 85
+  percentage: 100
   color: pink
-- name: Project Management
-  percentage: 75
+- name: 
+  percentage: 100
   color: green
 - name: Fast Learner
-  percentage: 90
+  percentage: 100
   color: sky
 - name: Problem Solving
-  percentage: 85
+  percentage: 100
   color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
