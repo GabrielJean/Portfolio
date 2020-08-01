@@ -41,10 +41,10 @@ params:
   gitRepo: https://github.com/hossainemruz/toha-example-site
 
   # specify whether you want to write blog post or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  enableTOC: false
 
   # specify the list of custom menus that you want to show in the top navbar.
   # they will be separated by a divider from the main menus.
@@ -55,7 +55,7 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
 
   # some information about you
   author:

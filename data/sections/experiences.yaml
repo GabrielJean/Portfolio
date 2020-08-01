@@ -14,7 +14,7 @@ experiences:
     url: "https://www.canada.ca/en/public-service-commission.html"
     location: Gatineau, Québec
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: The Public Service Commission is responsible for promoting and safeguarding a merit-based, representative and non-partisan public service that serves all Canadians, in collaboration with stakeholders.
   positions:
   - designation: Ops technician
     start: Jan 2019
@@ -22,9 +22,11 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Provide support for all PSC users who uses services hosted on Windows and Linux Servers.
+    - Use of knowledge of cloud environment to contribute to the implementation of several proofs of concepts to plan the migration to Azure.
+    - Work with developers to integrate their applications into Docker containers.
+    - Design, installation and configuration of a high availability system in Azure Stack for container hosting and management using Kubernetes.
+    - Documentation of the new environment to contribute to knowledge sharing and future maintenance. 
 
 
 - company:
@@ -32,7 +34,7 @@ experiences:
     url: "https://www.canada.ca/en/employment-social-development.html"
     location: Gatineau, Québec
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Employment and Social Development Canada (ESDC) works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market.  
   positions:
   - designation: Student Support Technician
     start: May 2018
@@ -41,9 +43,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Technical support of mobile devices.
+    - Customer support for all mobile users of the minister in NCR region.
 
 
 - company:
@@ -60,6 +61,6 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Went through all CCNA courses
+    - Windows and Linux system administration
+    - C# and python programing. 
