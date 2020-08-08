@@ -1,2 +1,7 @@
+FROM klakegg/hugo as build-stage
+COPY . /src
+RUN hugo
+
+
 FROM nginx
-COPY ./public /usr/share/nginx/html
+COPY --from=build-stage /src/public/ /usr/share/nginx/html
