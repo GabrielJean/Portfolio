@@ -12,7 +12,7 @@ section:
 skills:
 - name: Kubernetes
   icon: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes."
+  summary: "Built a POC cluster for the PSC. Capable of deploying, managing application on Kubernetes."
   url: "https://kubernetes.io/"
 
 - name: Docker
@@ -22,8 +22,8 @@ skills:
 
 - name: DevOps
   icon: "images/skills/605867-200.png"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage."
-  url: "https://www.docker.com/"
+  summary: "I build multiple CI/CD pipeline for my workplace and personal projects."
+  #url: "https://www.docker.com/"
 
 - name: Cloud Computing
   icon: "images/skills/cloud.png"
