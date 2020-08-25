@@ -16,18 +16,18 @@ skills:
   url: "https://kubernetes.io/"
 
 - name: Vmware
-  icon: "images/skills/kubernetes.png"
-  summary: "Built a POC cluster for the PSC. Capable of deploying, managing application on Kubernetes."
+  icon: "images/skills/vSphere-Icon-Color-2020.png"
+  summary: "Can build a vSphere cluster and manage multiple vms in an enterprise environment."
   url: "https://kubernetes.io/"
 
 - name: Ansible
-  icon: "images/skills/kubernetes.png"
-  summary: "Built a POC cluster for the PSC. Capable of deploying, managing application on Kubernetes."
+  icon: "images/skills/ansible.png"
+  summary: "Know how to automate configuration of multiple linux servers using Ansible."
   url: "https://kubernetes.io/"
 
 - name: Terraform
-  icon: "images/skills/kubernetes.png"
-  summary: "Built a POC cluster for the PSC. Capable of deploying, managing application on Kubernetes."
+  icon: "images/skills/terraform.png"
+  summary: "Know how to use Terraform to automate ressource provisioning on the cloud or on a local vSphere cluster."
   url: "https://kubernetes.io/"
 
 - name: Docker
@@ -54,12 +54,12 @@ skills:
   url: "https://git-scm.com/"
 
 - name: Python
-  icon: "images/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  icon: "images/skills/python.webp"
+  summary: "Good knowledge of python for scripting, automation and some web development."
   url: "https://git-scm.com/"
 
 
 - name: NodeJS (Javascript)
-  icon: "images/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  icon: "images/skills/node.png"
+  summary: "Know how to use NodeJS with expressJS to build backend applications and API."
   url: "https://git-scm.com/"
