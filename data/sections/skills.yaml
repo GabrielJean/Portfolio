@@ -37,7 +37,7 @@ skills:
 
 - name: DevOps
   icon: "images/skills/605867-200.png"
-  summary: "I build multiple CI/CD pipeline for my workplace and personal projects."
+  summary: "I built multiple CI/CD pipeline for my workplace and personal projects. I do Azure-Devops, Gitlab-CI and Github Actions."
   #url: "https://www.docker.com/"
 
 - name: Cloud Computing
@@ -46,7 +46,7 @@ skills:
 
 - name: Linux
   icon: "images/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Built several Linux Servers for diverse applications. Web, file share, database etc..."
 
 - name: Git
   icon: "images/skills/git.png"
