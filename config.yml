@@ -41,7 +41,7 @@ params:
   gitRepo: https://github.com/hossainemruz/toha-example-site
 
   # specify whether you want to write blog post or not
-  enableBlogPost: false
+  enableBlogPost: true
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: false
