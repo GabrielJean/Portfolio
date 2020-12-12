@@ -38,7 +38,7 @@ params:
     inverted: images/avatar.jpg
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://github.com/GabrielJean/Portfolio
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
