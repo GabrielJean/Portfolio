@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Public Service Commission
+    url: "https://www.canada.ca/en/public-service-commission.html"
+    location: Gatineau, Québec
+    # company overview
+    overview: The Public Service Commission is responsible for promoting and safeguarding a merit-based, representative and non-partisan public service that serves all Canadians, in collaboration with stakeholders.
+  positions:
+  - designation: Infrastructure & Operations technician
+    start: Jan 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Conception and installation of a continuous delivery pipeline for a new web application. (CAT)
+    - Support developers in integrating their applications into Docker containers
+    - Used cloud knowledge to contribute to the installation of multiple proofs of concepts aiming to migration PSC applications to Azure, Docker, and Kubernetes.
+    - Conception, installation, and configuration of a Kubernetes platform in Azure Stack to migrate new applications.
+    - Documentation of new cloud technologies to contribute to Knowledge sharing and operations of PSC.
+    - Provide support for all of PSC’s applications hosted on the WebLogic environment. (GC Jobs)
+    - Configure and support all PSC’s Linux and Windows servers.
+
+
+- company:
+    name: Employment and Social Development Canada
+    url: "https://www.canada.ca/en/employment-social-development.html"
+    location: Gatineau, Québec
+    # company overview
+    overview: Employment and Social Development Canada (ESDC) works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market.
+  positions:
+  - designation: Support Technician Student
+    start: May 2018
+    end: Aug 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Provide Technical support for all of ESDC's mobile devices.
+
+
+- company:
+    name: Cégep de l'Outaouais
+    url: "http://www.cegepoutaouais.qc.ca/"
+    location: Gatineau, Québec
+    # company overview
+    overview: Cégep de l'Outaouais networking and cybersecurity program is widely recognized for IT professionals.
+  positions:
+  - designation: Education, Networking and Cybersecurity
+    start: Aug 2016
+    end: May 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Went through all CCNA courses
+    - Windows and Linux system administration
+    - Learned Python, Powershell, Javascript, C#, SQL
