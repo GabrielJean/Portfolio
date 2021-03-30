@@ -23,7 +23,7 @@ stages:
             displayName: Install Hugo
             inputs:
               script: |
-                apt update && apt install hugo
+                sudo apt update && sudo apt install hugo
           - task: CmdLine@2
             displayName: Hugo_Build
             inputs:
