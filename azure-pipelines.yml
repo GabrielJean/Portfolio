@@ -1,0 +1,27 @@
+# Build a hugo website
+trigger: none
+
+pr:
+  - master
+
+resources:
+  - repo: self
+
+variables:
+  tag: "$(Build.BuildId)"
+
+stages:
+  - stage: Build
+    displayName: Build
+    jobs:
+      - job: Hugo Build
+        displayName: Hugo Build
+        pool:
+          vmImage: "ubuntu-latest"
+        steps:
+          - task: CmdLine@2
+            displayName: Hugo Build
+            inputs:
+              script: |
+                hugo
+              workingDirectory: "$(Build.SourcesDirectory)"
