@@ -14,13 +14,13 @@ stages:
   - stage: Build
     displayName: Build
     jobs:
-      - job: Hugo Build
-        displayName: Hugo Build
+      - job: Hugo_Build
+        displayName: Hugo_Build
         pool:
           vmImage: "ubuntu-latest"
         steps:
           - task: CmdLine@2
-            displayName: Hugo Build
+            displayName: Hugo_Build
             inputs:
               script: |
                 hugo
