@@ -1,0 +1,54 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Infrastructure & Operations technician
+# your company information
+company:
+  name: Public Service Commission of Canada
+  url: "https://www.canada.ca/en/public-service-commission.html"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Online-CV-EN.pdf"
+
+# a summary about you
+summary: "I am passionate about IT and programming in General. I love to build new things and learn more about tech. I am motivated to help people around me be more productive and ultimatly happier"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+# - name: Email
+#   icon: "fas fa-envelope"
+#   url: "example@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/GabrielJean"
+
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/gabriel-jean-670702183/"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+
+- name: Bilingual
+  percentage: 100
+  color: pink
+  color: green
+- name: Fast Learner
+  percentage: 100
+  color: sky
+- name: Problem Solving
+  percentage: 100
+  color: orange

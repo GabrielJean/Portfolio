@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: President's Award
+  timeline: "2020"
+  organization:
+    name: Public Service Commission
+    # url: https://www.linuxfoundation.org
+  courseOverview: Won this price when I helped to deploy a new application using modern technologies.
+  # certificateURL: "https://example.com"

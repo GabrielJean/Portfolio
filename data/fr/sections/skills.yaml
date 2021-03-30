@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Kubernetes
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Built a POC cluster for the PSC. Capable of deploying, managing application on Kubernetes."
+  url: "https://kubernetes.io/"
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+
+
+- name: Ansible
+  logo: "/images/sections/skills/ansible.png"
+  summary: "Know how to automate configuration of multiple linux servers using Ansible."
+  # url: "https://kubernetes.io/"
+
+- name: Terraform
+  logo: "/images/sections/skills/terraform.png"
+  summary: "Know how to use Terraform to automate ressource provisioning on the cloud or on a local vSphere cluster."
+  # url: "https://kubernetes.io/"
+
+- name: Docker
+  logo: "/images/sections/skills/docker.svg"
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage."
+  # url: "https://www.docker.com/"
+
+- name: DevOps
+  logo: "/images/sections/skills/605867-200.png"
+  summary: "I built multiple CI/CD pipeline for my workplace and personal projects. I do Azure-Devops, Gitlab-CI and Github Actions."
+  #url: "https://www.docker.com/"
+
+
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Built several Linux Servers for diverse applications. Web, file share, database etc..."
+
+- name: Vmware
+  logo: "/images/sections/skills/vSphere-Icon-Color-2020.png"
+  summary: "Can build a vSphere cluster and manage multiple vms in an enterprise environment."
+  # url: "https://kubernetes.io/"
+
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Good knowledge of python for scripting, automation and some web development."
+  # url: "https://git-scm.com/"
+
+
+- name: NodeJS (Javascript)
+  logo: "/images/sections/skills/node.png"
+  summary: "Know how to use NodeJS with expressJS to build backend applications and API."
+  # url: "https://git-scm.com/"
