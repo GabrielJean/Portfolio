@@ -20,6 +20,11 @@ stages:
           vmImage: "ubuntu-latest"
         steps:
           - task: CmdLine@2
+            displayName: Install Hugo
+            inputs:
+              script: |
+                apt update && apt install hugo
+          - task: CmdLine@2
             displayName: Hugo_Build
             inputs:
               script: |
