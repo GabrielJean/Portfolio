@@ -4,17 +4,17 @@ languageCode: en-us
 title: "Gabriel Jean"
 theme: "toha"
 
-defaultContentLanguage: us
+# defaultContentLanguage: us
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  us:
+  en:
     languageName: English
     weight: 1
 
-  # fr:
-  #   languageName: Français
-  #   weight: 2
+  fr:
+    languageName: Français
+    weight: 2
 
 
 # Control TOC depth
