@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: CLoud Infrastructure & Operations Analyst
+designation: Cloud Infrastructure & Operations Analyst
 # your company information
 company:
   name: Transport Canada
@@ -44,7 +44,6 @@ softSkills:
 
 - name: Bilingual
   percentage: 100
-  color: pink
   color: green
 - name: Fast Learner
   percentage: 100

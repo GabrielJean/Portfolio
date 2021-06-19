@@ -23,7 +23,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Automation...
+    - Automation / DevOps
+    - This section is still work in progress.
 
 
 - company:
@@ -42,10 +43,9 @@ experiences:
     responsibilities:
     - Conception and installation of a continuous delivery pipeline for a new web application. (CAT)
     - Support developers in integrating their applications into Docker containers
-    - Used cloud knowledge to contribute to the installation of multiple proofs of concepts aiming to migration PSC applications to Azure, Docker, and Kubernetes.
-    - Conception, installation, and configuration of a Kubernetes platform in Azure Stack to migrate new applications.
-    - Documentation of new cloud technologies to contribute to Knowledge sharing and operations of PSC.
-    - Provide support for all of PSC’s applications hosted on the WebLogic environment. (GC Jobs)
+    - Used cloud knowledge to contribute to the installation of multiple proofs of concepts aiming to migrate PSC applications to Azure, Docker, and Kubernetes.
+    - Documentation of new cloud technologies to contribute to Knowledge sharing and operations at PSC.
+    - "Provide support for all of PSC’s applications hosted on the WebLogic environment. (ex: GC Jobs)"
     - Configure and support all PSC’s Linux and Windows servers.
 
 
