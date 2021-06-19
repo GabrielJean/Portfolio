@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Transport Canada
+    url: "https://tc.canada.ca/en"
+    location: Ottawa, Ontario, Canada
+    # company overview
+    overview: Transport Canada is responsible for transportation policies and programs. We promote safe, secure, efficient and environmentally responsible transportation.
+  positions:
+  - designation: Cloud Infrastructure & Operations Analyst
+    start: June 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Automation...
+
+
+- company:
     name: Public Service Commission
     url: "https://www.canada.ca/en/public-service-commission.html"
     location: Gatineau, Québec
@@ -19,6 +35,7 @@ experiences:
   positions:
   - designation: Infrastructure & Operations technician
     start: Jan 2019
+    end: June 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.

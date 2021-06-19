@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Infrastructure & Operations technician
+designation: CLoud Infrastructure & Operations Analyst
 # your company information
 company:
-  name: Public Service Commission of Canada
-  url: "https://www.canada.ca/en/public-service-commission.html"
+  name: Transport Canada
+  url:  "https://tc.canada.ca/en"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Online-CV-EN.pdf"
