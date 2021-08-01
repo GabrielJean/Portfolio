@@ -17,7 +17,7 @@ languages:
     weight: 2
 
 # Enable Google Analytics
-googleAnalytics: G-F3WGM9YY53
+googleAnalytics: UA-203769780-1
 # Control TOC depth
 markup:
   tableOfContents:
