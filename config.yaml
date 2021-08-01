@@ -16,7 +16,8 @@ languages:
     languageName: Français
     weight: 2
 
-
+# Enable Google Analytics
+googleAnalytics: G-F3WGM9YY53
 # Control TOC depth
 markup:
   tableOfContents:
