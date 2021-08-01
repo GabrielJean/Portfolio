@@ -26,3 +26,11 @@ accomplishments:
     # url: https://www.linuxfoundation.org
   courseOverview: Won this price when I was in charge of the installation of the brand new CAT application for the PSC.
   # certificateURL: "https://example.com"
+
+- name: President's Award (Teamwork)
+  timeline: "2021"
+  organization:
+    name: Public Service Commission
+    # url: https://www.linuxfoundation.org
+  courseOverview: Won this price when I was in charge of creating a new deployment pipeline for the Covid-19 Recruitement Response Team.
+  # certificateURL: "https://example.com"
