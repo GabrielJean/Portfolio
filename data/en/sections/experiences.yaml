@@ -23,8 +23,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Automation / DevOps
-    - This section is still work in progress.
+    - Member of the Transport Canada Cloud Center of Excellence
+    - I provide technical support and guidance to help onboard app owners and their applications into the cloud. (Azure / AWS)
 
 
 - company:
@@ -66,20 +66,20 @@ experiences:
     - Provide Technical support for all of ESDC's mobile devices.
 
 
-- company:
-    name: Cégep de l'Outaouais
-    url: "http://www.cegepoutaouais.qc.ca/"
-    location: Gatineau, Québec
-    # company overview
-    overview: Cégep de l'Outaouais networking and cybersecurity program is widely recognized for IT professionals.
-  positions:
-  - designation: Education, Networking and Cybersecurity
-    start: Aug 2016
-    end: May 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Went through all CCNA courses
-    - Windows and Linux system administration
-    - Learned Python, Powershell, Javascript, C#, SQL
+# - company:
+#     name: Cégep de l'Outaouais
+#     url: "http://www.cegepoutaouais.qc.ca/"
+#     location: Gatineau, Québec
+#     # company overview
+#     overview: Cégep de l'Outaouais networking and cybersecurity program is widely recognized for IT professionals.
+#   positions:
+#   - designation: Education, Networking and Cybersecurity
+#     start: Aug 2016
+#     end: May 2020
+#     # don't provide end date if you are currently working there. It will be replaced by "Present"
+#     # end: Dec 2020
+#     # give some points about what was your responsibilities at the company.
+#     responsibilities:
+#     - Went through all CCNA courses
+#     - Windows and Linux system administration
+#     - Learned Python, Powershell, Javascript, C#, SQL
