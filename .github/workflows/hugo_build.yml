@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Install Hugo
-        run: sudo apt update && sudo apt install Hugo
+        run: sudo apt update && sudo apt install hugo
 
       - name: Install Hugo
         run: hugo
