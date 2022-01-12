@@ -11,6 +11,25 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Transport Canada
+    url: "https://tc.canada.ca/en"
+    location: Ottawa, Ontario, Canada
+    # company overview
+    overview: Transport Canada is responsible for transportation policies and programs. We promote safe, secure, efficient and environmentally responsible transportation.
+  positions:
+  - designation: Cloud Infrastructure & Operations Analyst
+    start: June 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Member of the Transport Canada Cloud Center of Excellence
+    - I provide technical support and guidance to help migrate app owners and their applications in the Cloud.
+    - Conception and development of reusable templates with Bicep and Terraform to encourage app owners to use best practices.
+    - Automated start-up and shutdown of non-essential virtual machines to save cost.
+    - Contributed to the configuration of SCED in the Azure environment.
+
+- company:
     name: Public Service Commission
     url: "https://www.canada.ca/en/public-service-commission.html"
     location: Gatineau, Québec
@@ -19,15 +38,17 @@ experiences:
   positions:
   - designation: Infrastructure & Operations technician
     start: Jan 2019
+    end: June 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Provide support for all PSC users who uses services hosted on Windows and Linux Servers.
-    - Use of knowledge of cloud environment to contribute to the implementation of several proofs of concepts to plan the migration to Azure.
-    - Work with developers to integrate their applications into Docker containers.
-    - Design, installation and configuration of a high availability system in Azure Stack for container hosting and management using Kubernetes.
-    - Documentation of the new environment to contribute to knowledge sharing and future maintenance.
+    - Conception and installation of a continuous delivery pipeline for a new web application. (CAT)
+    - Support developers in integrating their applications into Docker containers
+    - Used cloud knowledge to contribute to the installation of multiple proofs of concepts aiming to migrate PSC applications to Azure, Docker, and Kubernetes.
+    - Documentation of new cloud technologies to contribute to Knowledge sharing and operations at PSC.
+    - "Provide support for all of PSC’s applications hosted on the WebLogic environment. (ex: GC Jobs)"
+    - Configure and support all PSC’s Linux and Windows servers.
 
 
 - company:
@@ -44,24 +65,23 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Technical support of mobile devices.
-    - Customer support for all mobile users of the minister in NCR region.
+    - Provide Technical support for all of ESDC's mobile devices.
 
 
-- company:
-    name: Cégep de l'Outaouais
-    url: "http://www.cegepoutaouais.qc.ca/"
-    location: Gatineau, Québec
-    # company overview
-    overview: Cégep de l'Outaouais networking and cybersecurity program is widely recognized for IT professionals.
-  positions:
-  - designation: Education, Networking and Cybersecurity
-    start: Aug 2016
-    end: May 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Went through all CCNA courses
-    - Windows and Linux system administration
-    - C# and python programing.
+# - company:
+#     name: Cégep de l'Outaouais
+#     url: "http://www.cegepoutaouais.qc.ca/"
+#     location: Gatineau, Québec
+#     # company overview
+#     overview: Cégep de l'Outaouais networking and cybersecurity program is widely recognized for IT professionals.
+#   positions:
+#   - designation: Education, Networking and Cybersecurity
+#     start: Aug 2016
+#     end: May 2020
+#     # don't provide end date if you are currently working there. It will be replaced by "Present"
+#     # end: Dec 2020
+#     # give some points about what was your responsibilities at the company.
+#     responsibilities:
+#     - Went through all CCNA courses
+#     - Windows and Linux system administration
+#     - Learned Python, Powershell, Javascript, C#, SQL

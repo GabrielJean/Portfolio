@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Networking and Cybersecurity (DEC)
+  icon: fa-server
+  timeframe: 2016-2020
+  institution:
+    name: Cégep de l'Outaouais
+    url: "https://cegepoutaouais.qc.ca/"
