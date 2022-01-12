@@ -24,8 +24,10 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Member of the Transport Canada Cloud Center of Excellence
-    - I provide technical support and guidance to help onboard app owners and their applications into the cloud. (Azure / AWS)
-
+    - I provide technical support and guidance to help migrate app owners and their applications in the Cloud.
+    - Conception and development of reusable templates with Bicep and Terraform to encourage app owners to use best practices.
+    - Automated start-up and shutdown of non-essential virtual machines to save cost.
+    - Contributed to the configuration of SCED in the Azure environment.
 
 - company:
     name: Public Service Commission

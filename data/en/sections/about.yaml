@@ -15,7 +15,8 @@ company:
   url:  "https://tc.canada.ca/en"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Online-CV-EN.pdf"
+# resume: "files/Online-CV-EN.pdf"
+resume: "files/Online-CV-FR.pdf"
 
 # a summary about you
 summary: "I am passionate about IT and programming in General. I love to build new things and learn more about tech. I am motivated to help people around me be more productive and ultimately happier"
