@@ -11,59 +11,53 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Built a POC cluster for the PSC. Capable of deploying, managing application on Kubernetes."
-  url: "https://kubernetes.io/"
+- name: Azure
+  logo: "/images/sections/skills/Azure.png"
+  summary: "I Currently have 2 years of experience managing and configuring Azure environments for the governement of Canada."
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-
-
-- name: Ansible
-  logo: "/images/sections/skills/ansible.png"
-  summary: "Know how to automate configuration of multiple linux servers using Ansible."
-  # url: "https://kubernetes.io/"
-
-- name: Terraform
+- name: Infrastructure as Code
   logo: "/images/sections/skills/terraform.png"
-  summary: "Know how to use Terraform to automate ressource provisioning on the cloud or on a local vSphere cluster."
+  summary: "I used most of the IaC tools out there (Bicep, Terraform, Ansible, etc...) to deploy infrastructure in the cloud, but also a few on-premises."
   # url: "https://kubernetes.io/"
-
-- name: Docker
-  logo: "/images/sections/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage."
-  # url: "https://www.docker.com/"
 
 - name: DevOps
   logo: "/images/sections/skills/605867-200.png"
-  summary: "I built multiple CI/CD pipeline for my workplace and personal projects. I do Azure-Devops, Gitlab-CI and Github Actions."
+  summary: "I built multiple CI/CD pipelines for my workplace and personal projects. I am more familiar with Azure DevOps, Gitlab-CI and Github Actions."
   #url: "https://www.docker.com/"
 
+- name: Kubernetes
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "I have some experience deploying and managing Kubernetes for a few projects that wanted to use it for their applications. I'm more familiar with AKS and Rancher."
+  url: "https://kubernetes.io/"
 
-- name: Linux
+- name: Docker
+  logo: "/images/sections/skills/docker.svg"
+  summary: "I have been using docker since 2016 and I've helped multiple projects migrate their application to containers."
+  # url: "https://www.docker.com/"
+
+- name: Linux Server Administration
   logo: "/images/sections/skills/linux.png"
-  summary: "Built several Linux Servers for diverse applications. Web, file share, database etc..."
+  summary: "I have been using Linux professionally and at home since 2015, I can deploy any services you'd like on any of the most popular distros."
 
-- name: Vmware
-  logo: "/images/sections/skills/vSphere-Icon-Color-2020.png"
-  summary: "Can build a vSphere cluster and manage multiple vms in an enterprise environment."
-  # url: "https://kubernetes.io/"
-
-- name: Git
-  logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+# - name: Vmware
+#   logo: "/images/sections/skills/vSphere-Icon-Color-2020.png"
+#   summary: "Can build a vSphere cluster and manage multiple vms in an enterprise environment."
+#   # url: "https://kubernetes.io/"
 
 - name: Python
   logo: "/images/sections/skills/python.png"
   summary: "Good knowledge of python for scripting, automation and some web development."
   # url: "https://git-scm.com/"
 
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  URL: "https://git-scm.com/"
 
-- name: NodeJS (Javascript)
-  logo: "/images/sections/skills/node.png"
-  summary: "Know how to use NodeJS with expressJS to build backend applications and API."
-  # url: "https://git-scm.com/"
+
+
+
+# - name: NodeJS (Javascript)
+#   logo: "/images/sections/skills/node.png"
+#   summary: "Know how to use NodeJS with expressJS to build backend applications and API."
+#   # url: "https://git-scm.com/"
