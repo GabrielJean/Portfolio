@@ -13,7 +13,7 @@ section:
 skills:
 - name: Azure
   logo: "/images/sections/skills/Azure.png"
-  summary: "Currently have 2 years of experience managing Azure environments"
+  summary: "I Currently have 2 years of experience managing and configuring Azure environments for the governement of Canada."
 
 - name: Infrastructure as Code
   logo: "/images/sections/skills/terraform.png"
@@ -27,7 +27,7 @@ skills:
 
 - name: Kubernetes
   logo: "/images/sections/skills/kubernetes.png"
-  summary: "..."
+  summary: "I have some experience deploying and managing Kubernetes for a few projects that wanted to use it for their applications. I'm more familiar with AKS and Rancher."
   url: "https://kubernetes.io/"
 
 - name: Docker
