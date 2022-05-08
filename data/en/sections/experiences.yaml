@@ -58,7 +58,7 @@ experiences:
     # company overview
     overview: Employment and Social Development Canada (ESDC) works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market.
   positions:
-  - designation: Support Technician Student
+  - designation: Support Technician
     start: May 2018
     end: Aug 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
