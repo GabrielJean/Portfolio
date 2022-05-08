@@ -42,9 +42,17 @@ projects:
 - name: HomeLab-Automation
   logo: /images/sections/projects/HomeLab.png
   role: Owner
-  timeline: "2015 - Present"
+  timeline: "2015 - 2022"
   repo: https://github.com/GabrielJean/Homelab-Automation
   summary: All configurations, script, Ansible and Terraform templates used to manage my Homelab environemnt.
+  tags: ["hobby", "Homelab"]
+
+- name: HomeServer
+  logo: /images/sections/projects/HomeLab.png
+  role: Owner
+  timeline: "2022 - Present"
+  repo: https://github.com/GabrielJean/HomeServer
+  summary: All configurations, script, Ansible used to manage my HomeServer.
   tags: ["hobby", "Homelab"]
 
 - name: Portfolio
