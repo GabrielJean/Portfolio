@@ -53,6 +53,12 @@ params:
     inverted: images/author/avatar.jpg
     favicon: images/author/avatar.jpg
 
+  flagOverwrites:
+  - languageCode: en
+    countryCode:
+  - languageCode: fr
+    countryCode:
+    
   # Dark theme toggle
   darkMode:
     provider: darkreader
