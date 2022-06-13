@@ -41,6 +41,8 @@ params:
   # specify whether you want to show Table of Contents in reading page
   enableTOC: false
 
+  showFlags: false
+
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
@@ -52,12 +54,6 @@ params:
     main: images/author/avatar.jpg
     inverted: images/author/avatar.jpg
     favicon: images/author/avatar.jpg
-
-  flagOverwrites:
-  - languageCode: en
-    countryCode:
-  - languageCode: fr
-    countryCode:
     
   # Dark theme toggle
   darkMode:
