@@ -30,4 +30,4 @@ jobs:
         run: sudo apt update && sudo apt install hugo
 
       - name: Install Hugo
-        run: hugo
+        run: hugo server -dW
