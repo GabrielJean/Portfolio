@@ -29,5 +29,5 @@ jobs:
       - name: Install Hugo
         run: sudo apt update && sudo apt install hugo
 
-      - name: Install Hugo
-        run: hugo server -dW
+      - name: Build Hugo
+        run: hugo
