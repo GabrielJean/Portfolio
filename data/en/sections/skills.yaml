@@ -13,21 +13,21 @@ section:
 skills:
 - name: Azure
   logo: "/images/sections/skills/Azure.png"
-  summary: "I Currently have 2 years of experience managing and configuring Azure environments for the governement of Canada."
+  summary: "I have multiple years of experience managing and configuring Azure environments for the governement of Canada."
 
 - name: Infrastructure as Code
   logo: "/images/sections/skills/terraform.png"
-  summary: "I used most of the IaC tools out there (Bicep, Terraform, Ansible, etc...) to deploy infrastructure in the cloud, but also a few on-premises."
+  summary: "I have experience with most of the IaC tools out there (Bicep, Terraform, Ansible, etc...) to deploy infrastructure in the cloud, but also a few on-premises."
   # url: "https://kubernetes.io/"
 
 - name: DevOps
   logo: "/images/sections/skills/605867-200.png"
-  summary: "I built multiple CI/CD pipelines for my workplace and personal projects. I am more familiar with Azure DevOps, Gitlab-CI and Github Actions."
+  summary: "I built multiple CI/CD pipelines for my workplace and personal projects. I have experience with Azure DevOps, Gitlab-CI and Github Actions."
   #url: "https://www.docker.com/"
 
 - name: Kubernetes
   logo: "/images/sections/skills/kubernetes.png"
-  summary: "I have some experience deploying and managing Kubernetes for a few projects that wanted to use it for their applications. I'm more familiar with AKS and Rancher."
+  summary: "I have experience deploying and managing Kubernetes for the government of Canada."
   url: "https://kubernetes.io/"
 
 - name: Docker
@@ -39,25 +39,14 @@ skills:
   logo: "/images/sections/skills/linux.png"
   summary: "I have been using Linux professionally and at home since 2015, I can deploy any services you'd like on any of the most popular distros."
 
-# - name: Vmware
-#   logo: "/images/sections/skills/vSphere-Icon-Color-2020.png"
-#   summary: "Can build a vSphere cluster and manage multiple vms in an enterprise environment."
-#   # url: "https://kubernetes.io/"
+
 
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Good knowledge of python for scripting, automation and some web development."
+  summary: "Good knowledge of python for scripting, automation and some development."
   # url: "https://git-scm.com/"
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "I have experience working with git to maintain my projects."
   URL: "https://git-scm.com/"
-
-
-
-
-# - name: NodeJS (Javascript)
-#   logo: "/images/sections/skills/node.png"
-#   summary: "Know how to use NodeJS with expressJS to build backend applications and API."
-#   # url: "https://git-scm.com/"

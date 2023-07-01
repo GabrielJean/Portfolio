@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Expériences
   id: experiences
   enable: true
   weight: 2
@@ -15,10 +15,10 @@ experiences:
     url: "https://tc.canada.ca/en"
     location: Ottawa, Ontario, Canada
     # company overview
-    overview: Transport Canada is responsible for transportation policies and programs. We promote safe, secure, efficient and environmentally responsible transportation.
+    overview: Transport Canada est responsable des politiques et des programmes de transport. Nous favorisons des transports sûrs, sécurisés, efficaces et respectueux de l'environnement.
   positions:
-  - designation: Cloud Infrastructure & Operations Analyst
-    start: June 2021
+  - designation: Analyste d'automatisation infonuagique
+    start: Juin 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -30,15 +30,15 @@ experiences:
     - Contributed to the configuration of SCED in the Azure environment.
 
 - company:
-    name: Public Service Commission
+    name: Commission de la fonction publique
     url: "https://www.canada.ca/en/public-service-commission.html"
     location: Gatineau, Québec
     # company overview
-    overview: The Public Service Commission is responsible for promoting and safeguarding a merit-based, representative and non-partisan public service that serves all Canadians, in collaboration with stakeholders.
+    overview: La Commission de la fonction publique est responsable de promouvoir et de protéger un service public basé sur le mérite, représentatif et non partisan, qui sert l'ensemble des Canadiens, en collaboration avec les parties prenantes.
   positions:
-  - designation: Infrastructure & Operations technician
-    start: Jan 2019
-    end: June 2021
+  - designation: Technicien en infrastructure et opérations
+    start: Janvier 2019
+    end: Juin 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -52,36 +52,17 @@ experiences:
 
 
 - company:
-    name: Employment and Social Development Canada
+    name: Emploi et Développement social Canada
     url: "https://www.canada.ca/en/employment-social-development.html"
     location: Gatineau, Québec
     # company overview
-    overview: Employment and Social Development Canada (ESDC) works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market.
+    overview: Emploi et Développement social Canada (EDSC) travaille à améliorer le niveau de vie et la qualité de vie de tous les Canadiens. Nous le faisons en favorisant une main-d'œuvre hautement qualifiée et en promouvant un marché du travail efficace et inclusif.
   positions:
-  - designation: Support Technician Student
-    start: May 2018
-    end: Aug 2018
+  - designation: Étudiant en soutien technique
+    start: Mai 2018
+    end: Août 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Provide Technical support for all of ESDC's mobile devices.
-
-
-# - company:
-#     name: Cégep de l'Outaouais
-#     url: "http://www.cegepoutaouais.qc.ca/"
-#     location: Gatineau, Québec
-#     # company overview
-#     overview: Cégep de l'Outaouais networking and cybersecurity program is widely recognized for IT professionals.
-#   positions:
-#   - designation: Education, Networking and Cybersecurity
-#     start: Aug 2016
-#     end: May 2020
-#     # don't provide end date if you are currently working there. It will be replaced by "Present"
-#     # end: Dec 2020
-#     # give some points about what was your responsibilities at the company.
-#     responsibilities:
-#     - Went through all CCNA courses
-#     - Windows and Linux system administration
-#     - Learned Python, Powershell, Javascript, C#, SQL
+    - Fournir un support technique pour tous les appareils mobiles d'EDSC.

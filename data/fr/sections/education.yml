@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Éducation
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Networking and Cybersecurity (DEC)
+- name: Réseautique et cybersécurité (DEC)
   icon: fa-server
   timeframe: 2016-2020
   institution:

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Accomplishments
+  name: Réalisations
   id: accomplishments
   enable: true
   weight: 7
@@ -11,26 +11,26 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: President's Award (Innovation)
+- name: Prix du Président (Innovation)
   timeline: "2020"
   organization:
-    name: Public Service Commission
+    name: Commission de la fonction publique
     # url: https://www.linuxfoundation.org
-  courseOverview: Won this prize when I helped to deploy a new modern application using modern technologies in the cloud.
+  courseOverview: J'ai remporté ce prix lorsque j'ai contribué au déploiement d'une nouvelle application moderne utilisant des technologies de pointe dans le cloud.
   # certificateURL: "https://example.com"
 
-- name: President's Award (Teamwork)
+- name: Prix du Président (Travail d'équipe)
   timeline: "2021"
   organization:
-    name: Public Service Commission
+    name: Commission de la fonction publique
     # url: https://www.linuxfoundation.org
-  courseOverview: Won this prize when I was in charge of the installation of the brand new CAT application for the PSC.
+  courseOverview: J'ai remporté ce prix lorsque j'étais responsable de l'installation de la toute nouvelle application CAT pour la PSC (Commission de la fonction publique).
   # certificateURL: "https://example.com"
 
-- name: President's Award (Teamwork)
+- name: Prix du Président (Travail d'équipe)
   timeline: "2021"
   organization:
-    name: Public Service Commission
+    name: Commission de la fonction publique
     # url: https://www.linuxfoundation.org
-  courseOverview: Won this prize when I was in charge of creating a new deployment pipeline for the Covid-19 Recruitement Response Team.
+  courseOverview: J'ai remporté ce prix lorsque j'étais responsable de la création d'un nouveau pipeline de déploiement pour l'équipe de réponse au recrutement Covid-19.
   # certificateURL: "https://example.com"

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: À propos
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Cloud Infrastructure & Operations Analyst
+designation: Analyste en automatisation infonuagique
 # your company information
 company:
   name: Transport Canada
@@ -18,7 +18,7 @@ company:
 resume: "files/Online-CV-FR.pdf"
 
 # a summary about you
-summary: "I am passionate about IT and programming in General. I love to build new things and learn more about tech. I am motivated to help people around me be more productive and ultimately happier"
+summary: "Je suis passionné(e) par l'informatique et la programmation en général. J'adore créer de nouvelles choses et en apprendre davantage sur les technologies. Je suis motivé(e) à aider les personnes qui m'entourent à être plus productives et, en fin de compte, plus heureuses."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -42,12 +42,12 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 
-- name: Bilingual
+- name: Bilingue
   percentage: 100
   color: green
-- name: Fast Learner
+- name: Apprentissage rapide
   percentage: 100
   color: sky
-- name: Problem Solving
+- name: Résolution de problèmes
   percentage: 100
   color: orange

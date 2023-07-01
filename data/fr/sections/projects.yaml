@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Projets
   id: projects
   enable: true
   weight: 5
@@ -10,11 +10,11 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: Tous
   filter: "all"
-- name: Professional
+- name: Professionnel
   filter: "professional"
-- name: Hobby
+- name: Passe-temps
   filter: "hobby"
 - name: HomeLab
   filter: "Homelab"
@@ -23,35 +23,26 @@ buttons:
 projects:
 - name: CAT
   logo: /images/sections/projects/Canada.png
-  role: Contributor
-  timeline: "May - Present"
+  role: Contributeur
+  timeline: "Mai 2020 - Juin 2021"
   # repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://gitlab.com/thundercat-transition/project-thundercat"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: PSC Online testing plateform to evaluate candidates on second language abilities and other skills.
+  summary: Plateforme de tests en ligne de la Commission de la fonction publique pour évaluer les compétences des candidats en matière de deuxième langue et d'autres compétences.
   tags: ["professional"]
-
-- name: Com2Kube
-  logo: //images/sections/sections/projects/58394923.png
-  role: Owner
-  timeline: "Jan 2020 - June 2020"
-  repo: https://github.com/Com2Kube/Com2Kube
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
-
-- name: HomeLab-Automation
-  logo: /images/sections/projects/HomeLab.png
-  role: Owner
-  timeline: "2015 - Present"
-  repo: https://github.com/GabrielJean/Homelab-Automation
-  summary: All configurations, script, Ansible and Terraform templates used to manage my Homelab environemnt.
-  tags: ["hobby", "Homelab"]
 
 - name: Portfolio
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "July 2020 - Present"
   repo: https://github.com/GabrielJean/Portfolio
-  summary: A website to present myself on the internet.
+  summary: Un site web pour me présenter sur Internet.
   tags: ["hobby"]
+
+- name: HomeServer
+  logo: /images/sections/projects/HomeLab.png
+  role: Propriétaire
+  timeline: "2022 - Present"
+  repo: https://github.com/GabrielJean/HomeServer
+  summary: Toutes les configurations, les scripts et les images Docker utilisées pour gérer mon serveur domestique.
+  tags: ["hobby", "Homelab"]
 

@@ -24,35 +24,19 @@ projects:
 - name: CAT
   logo: /images/sections/projects/Canada.png
   role: Contributor
-  timeline: "May - Present"
+  timeline: "May 2020 - June 2021"
   # repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://gitlab.com/thundercat-transition/project-thundercat"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: PSC Online testing platform to evaluate candidates on second language abilities and other skills.
   tags: ["professional"]
 
-- name: Com2Kube
-  logo: //images/sections/sections/projects/58394923.png
-  role: Owner
-  timeline: "Jan 2020 - June 2020"
-  repo: https://github.com/Com2Kube/Com2Kube
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
-
-- name: HomeLab-Automation
-  logo: /images/sections/projects/HomeLab.png
-  role: Owner
-  timeline: "2015 - 2022"
-  repo: https://github.com/GabrielJean/Homelab-Automation
-  summary: All configurations, script, Ansible and Terraform templates used to manage my Homelab environemnt.
-  tags: ["hobby", "Homelab"]
 
 - name: HomeServer
   logo: /images/sections/projects/HomeLab.png
   role: Owner
   timeline: "2022 - Present"
   repo: https://github.com/GabrielJean/HomeServer
-  summary: All configurations, script, Ansible used to manage my HomeServer.
+  summary: All configurations, scripts and docker images used to manage my HomeServer.
   tags: ["hobby", "Homelab"]
 
 - name: Portfolio
