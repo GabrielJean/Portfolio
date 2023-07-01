@@ -23,11 +23,19 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Member of the Transport Canada Cloud Center of Excellence
-    - I provide technical support and guidance to help migrate app owners and their applications in the Cloud.
-    - Conception and development of reusable templates with Bicep and Terraform to encourage app owners to use best practices.
-    - Automated start-up and shutdown of non-essential virtual machines to save cost.
-    - Contributed to the configuration of SCED in the Azure environment.
+    - À développer un rapport Power BI détaillants les coûts de chaque application et projets dans l’environnement Azure afin d’identifier les opportunités de réduction et sensibiliser les propriétaires d’applications.
+    - À contribuer à la conception et mise en place d’un environnement Kubernetes centralisé pour les développeurs de Transport Canada.
+    - À mis en place un nouvel environnement AWS respectant les « guardrails » du conseil du trésors grâce au « Landing Zone Accelerator ».
+    - Conception et développement de modèles réutilisable avec Bicep et Terraform pour encourager les propriétaires d'applications à mettre en place de bonne pratiques infonuagique.
+    - Guide et supporte les propriétaires d'applications pour accélérer et faciliter leur migration vers le cloud.
+    - Fournis des conseils aux développeurs quant aux meilleures pratiques a adopté dans le cloud.
+    - À automatiser le déploiement et la configuration de l’Application Gateway centrale pour augmenter la rapidité des migrations de l'organisation.
+    - À automatiser le renouvellement des certificats SSL externe et interne à l’aide de Let’s Encrypt réduire la charge de travail sur notre équipe.
+    - À automatiser l’arrêt et l’allumage de toutes les machines virtuelles non essentiels en dehors des heures de travail afin d’économiser sur les coûts d’utilisations.
+    - À Contribué à la configuration et de la mise en place de SCED dans l'environnement Azure.
+    - À implémenter la méthodologie AACS pour la gestion des comptes administrateurs dans Azure.
+
+
 
 - company:
     name: Commission de la fonction publique
@@ -43,12 +51,13 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Conception and installation of a continuous delivery pipeline for a new web application. (CAT)
-    - Support developers in integrating their applications into Docker containers
-    - Used cloud knowledge to contribute to the installation of multiple proofs of concepts aiming to migrate PSC applications to Azure, Docker, and Kubernetes.
-    - Documentation of new cloud technologies to contribute to Knowledge sharing and operations at PSC.
-    - "Provide support for all of PSC’s applications hosted on the WebLogic environment. (ex: GC Jobs)"
-    - Configure and support all PSC’s Linux and Windows servers.
+    - Conception et mise en place d’un pipeline de déploiement automatique pour une nouvelle application web. (CAT)
+    - Supporte les développeurs dans l'intégration de leur application dans des conteneurs.
+    - Utilisation de connaissance infonuagiques pour contribuer à la mise en place de plusieurs preuves de concept dans le but de migrer les applications de la CFP vers Azure, Docker et Kubernetes.
+    - Conception, installation et configuration d'une plateforme Kubernetes dans Azure Stack.
+    - Documentions des nouvelles technologies infonuagiques pour contribuer au partage des connaissances et aux opérations de la CFP.
+    - Fournis un support pour l'ensemble des applications hébergé sur notre environnement WebLogic. (GC Jobs)
+    - Configure et supporte l'ensemble des serveurs Windows et Linux de la CFP.
 
 
 - company:
@@ -65,4 +74,4 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Fournir un support technique pour tous les appareils mobiles d'EDSC.
+    - À fournit un support technique pour tous les appareils mobiles du ministère.

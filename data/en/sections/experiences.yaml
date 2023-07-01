@@ -23,11 +23,17 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Member of the Transport Canada Cloud Center of Excellence
-    - I provide technical support and guidance to help migrate app owners and their applications in the Cloud.
-    - Conception and development of reusable templates with Bicep and Terraform to encourage app owners to use best practices.
-    - Automated start-up and shutdown of non-essential virtual machines to save cost.
-    - Contributed to the configuration of SCED in the Azure environment.
+    - Developed a Power BI report detailing the costs of each application and project in the Azure environment to identify cost reduction opportunities and raise awareness among application owners.
+    - Contributed to the design and implementation of a centralized Kubernetes environment for Transport Canada developers.
+    - Set up a new AWS environment adhering to the Treasury Board's "guardrails" through the use of the "Landing Zone Accelerator."
+    - Designed and developed reusable models using Bicep and Terraform to encourage application owners to implement cloud best practices.
+    - Guided and supported application owners to accelerate and facilitate their migration to the cloud.
+    - Provided guidance to developers on best practices to adopt in the cloud.
+    - Automated the deployment and configuration of the central Application Gateway to increase the speed of organization migrations.
+    - Automated the renewal of external and internal SSL certificates using Let's Encrypt to reduce workload on our team.
+    - Automated the shutdown and startup of all non-essential virtual machines outside of working hours to save on usage costs.
+    - Contributed to the configuration and implementation of SCED in the Azure environment.
+    - Implemented the AACS methodology for managing administrative accounts in Azure.
 
 - company:
     name: Public Service Commission
@@ -43,12 +49,13 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Conception and installation of a continuous delivery pipeline for a new web application. (CAT)
-    - Support developers in integrating their applications into Docker containers
-    - Used cloud knowledge to contribute to the installation of multiple proofs of concepts aiming to migrate PSC applications to Azure, Docker, and Kubernetes.
-    - Documentation of new cloud technologies to contribute to Knowledge sharing and operations at PSC.
-    - "Provide support for all of PSC’s applications hosted on the WebLogic environment. (ex: GC Jobs)"
-    - Configure and support all PSC’s Linux and Windows servers.
+    - Designed and implemented an automated deployment pipeline for a new web application. (CAT)
+    - Supported developers in integrating their applications into containers.
+    - Utilized cloud knowledge to contribute to the implementation of multiple proof-of-concepts aimed at migrating CFP applications to Azure, Docker, and Kubernetes.
+    - Designed, installed, and configured a Kubernetes platform in Azure Stack.
+    - Documented new cloud technologies to contribute to knowledge sharing and CFP operations.
+    - Provided support for all applications hosted on our WebLogic environment. (GC Jobs)
+    - Configured and supported all Windows and Linux servers for the CFP.
 
 
 - company:
@@ -65,5 +72,5 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Provide Technical support for all of ESDC's mobile devices.
+    - Provided Technical support for all of ESDC's mobile devices.
 
