@@ -17,25 +17,40 @@ experiences:
     # company overview
     overview: Transport Canada est responsable des politiques et des programmes de transport. Nous favorisons des transports sûrs, sécurisés, efficaces et respectueux de l'environnement.
   positions:
-  - designation: Analyste d'automatisation infonuagique
-    start: Juin 2021
+  - designation: Conseiller Technique Opérations Infonuagique
+    start: July 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - À développer un rapport Power BI détaillants les coûts de chaque application et projets dans l’environnement Azure afin d’identifier les opportunités de réduction et sensibiliser les propriétaires d’applications.
-    - À contribuer à la conception et mise en place d’un environnement Kubernetes centralisé pour les développeurs de Transport Canada.
-    - À mis en place un nouvel environnement AWS respectant les « guardrails » du conseil du trésors grâce au « Landing Zone Accelerator ».
-    - Conception et développement de modèles réutilisable avec Bicep et Terraform pour encourager les propriétaires d'applications à mettre en place de bonne pratiques infonuagique.
     - Guide et supporte les propriétaires d'applications pour accélérer et faciliter leur migration vers le cloud.
     - Fournis des conseils aux développeurs quant aux meilleures pratiques a adopté dans le cloud.
-    - À automatiser le déploiement et la configuration de l’Application Gateway centrale pour augmenter la rapidité des migrations de l'organisation.
-    - À automatiser le renouvellement des certificats SSL externe et interne à l’aide de Let’s Encrypt réduire la charge de travail sur notre équipe.
-    - À automatiser l’arrêt et l’allumage de toutes les machines virtuelles non essentiels en dehors des heures de travail afin d’économiser sur les coûts d’utilisations.
-    - À Contribué à la configuration et de la mise en place de SCED dans l'environnement Azure.
-    - À implémenter la méthodologie AACS pour la gestion des comptes administrateurs dans Azure.
+    - Analyse les plans architecturaux des future applications candidates à l’infonuagique afin d’identifier des opportunités d’amélioration, corriger des erreurs techniques où relever d’éventuel problèmes lors de l’implémentation. 
+    - A développé un rapport Power BI détaillants les coûts de chaque application et projets dans l’environnement Azure afin d’identifier les opportunités de réduction et sensibiliser les propriétaires d’applications. 
 
 
+
+- company:
+    name: Transport Canada
+    url: "https://tc.canada.ca/en"
+    location: Ottawa, Ontario, Canada
+    # company overview
+    overview: Transport Canada est responsable des politiques et des programmes de transport. Nous favorisons des transports sûrs, sécurisés, efficaces et respectueux de l'environnement.
+  positions:
+  - designation: Analyste d'automatisation infonuagique
+    start: Juin 2021
+    end: July 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - A contribuer à la conception et mise en place d’un environnement Kubernetes centralisé pour les développeurs de Transport Canada.
+    - A mis en place un nouvel environnement AWS respectant les « guardrails » du conseil du trésors grâce au « Landing Zone Accelerator ».
+    - Conception et développement de modèles réutilisable avec Bicep et Terraform pour encourager les propriétaires d'applications à mettre en place de bonne pratiques infonuagique.
+    - A automatiser le déploiement et la configuration de l’Application Gateway centrale pour augmenter la rapidité des migrations de l'organisation.
+    - A automatiser le renouvellement des certificats SSL externe et interne à l’aide de Let’s Encrypt réduire la charge de travail sur notre équipe.
+    - A automatiser l’arrêt et l’allumage de toutes les machines virtuelles non essentiels en dehors des heures de travail afin d’économiser sur les coûts d’utilisations.
+    - A Contribué à la configuration et de la mise en place de SCED dans l'environnement Azure.
 
 - company:
     name: Commission de la fonction publique

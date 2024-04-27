@@ -17,23 +17,40 @@ experiences:
     # company overview
     overview: Transport Canada is responsible for transportation policies and programs. We promote safe, secure, efficient and environmentally responsible transportation.
   positions:
-  - designation: Cloud Automation Analyst
-    start: June 2021
+  - designation: Conseiller Technique Opérations Infonuagique
+    start: July 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Developed a Power BI report detailing the costs of each application and project in the Azure environment to identify cost reduction opportunities and raise awareness among application owners.
+    - Guide et supporte les propriétaires d'applications pour accélérer et faciliter leur migration vers le cloud.
+    - Fournis des conseils aux développeurs quant aux meilleures pratiques a adopté dans le cloud.
+    - Analyse les plans architecturaux des future applications candidates à l’infonuagique afin d’identifier des opportunités d’amélioration, corriger des erreurs techniques où relever d’éventuel problèmes lors de l’implémentation. 
+    - A développé un rapport Power BI détaillants les coûts de chaque application et projets dans l’environnement Azure afin d’identifier les opportunités de réduction et sensibiliser les propriétaires d’applications. 
+
+
+
+- company:
+    name: Transport Canada
+    url: "https://tc.canada.ca/en"
+    location: Ottawa, Ontario, Canada
+    # company overview
+    overview: Transport Canada is responsible for transportation policies and programs. We promote safe, secure, efficient and environmentally responsible transportation.
+  positions:
+  - designation: Cloud Automation Analyst
+    start: June 2021
+    end: July 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
     - Contributed to the design and implementation of a centralized Kubernetes environment for Transport Canada developers.
     - Set up a new AWS environment adhering to the Treasury Board's "guardrails" through the use of the "Landing Zone Accelerator."
     - Designed and developed reusable models using Bicep and Terraform to encourage application owners to implement cloud best practices.
-    - Guided and supported application owners to accelerate and facilitate their migration to the cloud.
-    - Provided guidance to developers on best practices to adopt in the cloud.
     - Automated the deployment and configuration of the central Application Gateway to increase the speed of organization migrations.
     - Automated the renewal of external and internal SSL certificates using Let's Encrypt to reduce workload on our team.
     - Automated the shutdown and startup of all non-essential virtual machines outside of working hours to save on usage costs.
     - Contributed to the configuration and implementation of SCED in the Azure environment.
-    - Implemented the AACS methodology for managing administrative accounts in Azure.
 
 - company:
     name: Public Service Commission
