@@ -27,6 +27,7 @@ experiences:
     - Provides advice to developers on best practices to adopt in the cloud.
     - Analyzes the architectural plans of future cloud-ready applications to identify opportunities for improvement, correct technical errors, or ensure compliance with policies and standards.
     - Developed a Power BI that sync to Azure automatically and report the costs of each applications and projects in the Azure environment to identify opportunities for reduction and raise awareness among application owners.
+    - Development of 'Policy as Code' using Azure Policy and Bicep in the Azure environment to automate and standardize certain configurations when deploying a new application.
 
 - company:
     name: Transport Canada
