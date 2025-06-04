@@ -6,10 +6,11 @@ on:
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches: [ main, dev ]
+  workflow_dispatch: # Allow manual triggers
 
 jobs:
   build_and_deploy:
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed') || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     name: Build and Deploy
     steps:
