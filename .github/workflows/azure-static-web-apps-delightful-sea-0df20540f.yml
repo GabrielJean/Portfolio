@@ -1,16 +1,19 @@
 name: Azure Static Web Apps CI/CD
 
 on:
+  workflow_dispatch:       # <--- manual trigger enabled
   push:
     branches: [ main, dev ]
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches: [ main, dev ]
-  workflow_dispatch: # Allow manual triggers
 
 jobs:
   build_and_deploy:
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed') || github.event_name == 'workflow_dispatch'
+    # Only run when pushing to main/dev or when PR is opened/synchronized/reopened (not closed)
+    if: github.event_name == 'push' ||
+        github.event_name == 'workflow_dispatch' ||
+        (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
     name: Build and Deploy
     steps:
@@ -20,7 +23,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest' # Use specific version for stability
+          hugo-version: '0.123.8'
           extended: true
 
       - name: Install Node dependencies
@@ -45,7 +48,7 @@ jobs:
           action: upload
           skip_app_build: true
           app_location: public
-          deployment_environment: ${{ github.ref_name == 'dev' && 'dev' || (github.ref_name == 'main' && 'production' || '') }}
+          deployment_environment: ${{ github.ref_name == 'dev' && 'dev' || '' }}
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
